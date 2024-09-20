@@ -1,0 +1,68 @@
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\appsettings.json
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\chakish 2.0 api.exe
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\chakish 2.0 api.deps.json
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\chakish 2.0 api.runtimeconfig.json
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\chakish 2.0 api.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\chakish 2.0 api.pdb
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Npgsql.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\obj\Debug\net8.0\chakish 2.0 api.csproj.AssemblyReference.cache
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\obj\Debug\net8.0\chakish 2.0 api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\obj\Debug\net8.0\chakish 2.0 api.AssemblyInfoInputs.cache
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\obj\Debug\net8.0\chakish 2.0 api.AssemblyInfo.cs
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\obj\Debug\net8.0\chakish 2.0 api.csproj.CoreCompileInputs.cache
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\obj\Debug\net8.0\chakish 2.0 api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\obj\Debug\net8.0\chakish 2.0 api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\obj\Debug\net8.0\staticwebassets\msbuild.chakish 2.0 api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\obj\Debug\net8.0\staticwebassets\msbuild.build.chakish 2.0 api.props
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.chakish 2.0 api.props
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.chakish 2.0 api.props
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\obj\Debug\net8.0\scopedcss\bundle\chakish 2.0 api.styles.css
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\obj\Debug\net8.0\chakish .E58CDC9B.Up2Date
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\obj\Debug\net8.0\chakish 2.0 api.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\obj\Debug\net8.0\refint\chakish 2.0 api.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\obj\Debug\net8.0\chakish 2.0 api.pdb
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\obj\Debug\net8.0\chakish 2.0 api.genruntimeconfig.cache
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\obj\Debug\net8.0\ref\chakish 2.0 api.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\obj\Debug\net8.0\chakish 2.0 api.sourcelink.json
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\merely\RiderProjects\chakish 2.0\chakish 2.0 api\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
