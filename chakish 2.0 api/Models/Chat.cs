@@ -1,4 +1,7 @@
-﻿namespace chakish_2._0_api.Models;
+﻿using System;
+using System.Collections.Generic;
+
+namespace chakish_2._0_api.Models;
 
 public class Chat
 {

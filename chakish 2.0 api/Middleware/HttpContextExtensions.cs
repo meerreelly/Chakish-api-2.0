@@ -1,3 +1,5 @@
+using Microsoft.AspNetCore.Http;
+
 namespace WebApplication1.Middleware;
 
 public static class HttpContextExtensions

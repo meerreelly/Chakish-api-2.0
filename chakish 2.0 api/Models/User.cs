@@ -1,4 +1,6 @@
-﻿namespace chakish_2._0_api.Models;
+﻿using System;
+
+namespace chakish_2._0_api.Models;
 
 public class User
 {
