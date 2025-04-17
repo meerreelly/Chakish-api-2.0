@@ -3,9 +3,9 @@
 public class Chat
 {
     public Guid ChatId { get; set; }
-    public List<Guid> Users { get; set; } = new List<Guid>();
+    public List<string> Users { get; set; } = new List<string>();
 
-    public Chat(Guid user1, Guid user2)
+    public Chat(string user1, string user2)
     {
         Users.Add(user1);
         Users.Add(user2);
